@@ -1,8 +1,8 @@
-%{"calliope": {:hex, :calliope, "0.3.0"},
+%{"calliope": {:git, "https://github.com/nurugger07/calliope.git", "f5f80d75797a6d5954e93b0826fedab0e248f4d1", []},
   "cowboy": {:hex, :cowboy, "1.0.2"},
   "cowlib": {:hex, :cowlib, "1.0.1"},
-  "phoenix": {:hex, :phoenix, "1.1.0"},
-  "phoenix_html": {:hex, :phoenix_html, "2.3.0"},
-  "plug": {:hex, :plug, "1.0.3"},
-  "poison": {:hex, :poison, "1.5.0"},
+  "phoenix": {:hex, :phoenix, "1.1.4"},
+  "phoenix_html": {:hex, :phoenix_html, "2.5.0"},
+  "plug": {:hex, :plug, "1.1.0"},
+  "poison": {:hex, :poison, "2.0.1"},
   "ranch": {:hex, :ranch, "1.1.0"}}
