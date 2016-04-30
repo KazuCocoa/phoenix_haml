@@ -24,7 +24,7 @@ defmodule PhoenixHaml.Mixfile do
 
   defp deps do
     [
-      {:phoenix, "~> 1.1"},
+      {:phoenix, "~> 1.2-rc"},
       {:phoenix_html, "~> 2.3"},
       {:calliope, github: "nurugger07/calliope"}
     ]
